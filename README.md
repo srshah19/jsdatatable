@@ -1,5 +1,5 @@
 # jsdatatable
-A simple pure javascript table generation script. I built this for a interview challenge but am going to keep improving and maintaining this. 
+A simple pure javascript table generation script.
 
 Currently does the following functionality:
 
